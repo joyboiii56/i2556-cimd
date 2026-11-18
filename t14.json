@@ -1,0 +1,19 @@
+{
+  "client_id": "https://joyboiii56.github.io/i2556-cimd/t14.json",
+  "client_name": "x\"><img src=x>",
+  "client_uri": "https://github.com/joyboiii56/i2556-cimd",
+  "redirect_uris": [
+    "http://127.0.0.1:8765/callback",
+    "http://localhost:8765/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "scope": "*:*:read *:*:read_write"
+}
