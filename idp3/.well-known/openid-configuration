@@ -1,0 +1,12 @@
+{
+ "issuer": "https://raw.githubusercontent.com/joyboiii56/i2556-cimd/main/idp3",
+ "jwks_uri": "https://raw.githubusercontent.com/joyboiii56/i2556-cimd/main/idp3/jwks.json",
+ "authorization_endpoint": "https://example.com/i2834-authorize",
+ "token_endpoint": "https://webhook.site/10c77bbc-68b2-45ae-aa5e-798f2b6ec14d/token",
+ "subject_types_supported": [
+  "public"
+ ],
+ "id_token_signing_alg_values_supported": [
+  "RS256"
+ ]
+}
