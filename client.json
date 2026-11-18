@@ -1,12 +1,13 @@
 {
   "client_id": "https://cdn.jsdelivr.net/gh/joyboiii56/i2556-cimd@main/client.json",
-  "client_name": "i2556-rc-cimd-probe",
+  "client_name": "i2705-marker-1795017305",
   "client_uri": "https://github.com/joyboiii56/i2556-cimd",
+  "logo_uri": "https://cdn.jsdelivr.net/gh/joyboiii56/i2556-cimd@main/logo.svg?m=1795017305",
+  "policy_uri": "https://example.com/policy-1795017305",
+  "tos_uri": "https://example.com/tos-1795017305",
   "redirect_uris": [
     "http://127.0.0.1:8765/callback",
-    "http://localhost:8765/callback",
-    "http://127.0.0.1:8080/callback",
-    "http://localhost:8080/callback"
+    "http://localhost:8765/callback"
   ],
   "grant_types": [
     "authorization_code",
