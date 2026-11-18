@@ -1,0 +1,1 @@
+{"issuer": "https://github.com/joyboiii56/i2556-cimd/raw/main/idp", "jwks_uri": "https://cdn.jsdelivr.net/gh/joyboiii56/i2556-cimd@main/idp/jwks.json", "authorization_endpoint": "https://example.com/auth", "token_endpoint": "https://example.com/token"}
